@@ -27,3 +27,5 @@ Ensure you have **Python 3.x** installed. You will also need to install the requ
 
 ```bash
 pip install pandas pillow openpyxl
+
+U Can use co lab so u can avoid installing dependencies on local system 
